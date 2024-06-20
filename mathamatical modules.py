@@ -1,0 +1,12 @@
+import math as  m
+print(m.pow(2,4))
+print(m.sqrt(36))
+print(m.cos(30))
+print(m.sin(30))
+print(m.tan(30))
+print(m.cosh(30))
+print(m.sinh(30))
+print(m.tanh(30))
+print(m.pi)
+print(m.nan)
+print(m.tau)
